@@ -1,4 +1,9 @@
 # Next.js Dashboard Full-Stack Web Application
+To experience the full demo, please log in with the following credentials:
+```
+username: user@nextmail.com
+password: 123456
+```
 
 ## Features
 - **Styling**: The different ways to style your application in Next.js.
